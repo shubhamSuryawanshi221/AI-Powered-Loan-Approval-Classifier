@@ -38,4 +38,4 @@ Target: **Loan_Status (Approved / Not Approved)**
 
 ⭐ Star this repo if you found it useful!
 
-<img src="Jupyter.png" width="100%" />
+
